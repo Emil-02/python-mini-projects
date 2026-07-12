@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Proyek dengan repo sendiri (kamus-konjo)
+Rekayasa_Komputasional/
+
+# File UTS pribadi & artefak enkripsi — jangan dipublikasikan
+UtsEmil*
+*_Enkripsi
+*_Dekripsi.*

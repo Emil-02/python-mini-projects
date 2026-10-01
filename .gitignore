@@ -11,3 +11,12 @@ Rekayasa_Komputasional/
 UtsEmil*
 *_Enkripsi
 *_Dekripsi.*
+
+# --- jangan upload file rahasia ---
+.env
+.env.*
+!.env.example
+*.env
+
+# file terlalu besar utk GitHub - ada di F:\Proyek Env\_FILE_BESAR\
+Laporan_Sistem_Reservasi_Tiket_Bioskop_Terdistribusi_v2.docx
